@@ -1,6 +1,5 @@
 +++
 date = '2024-12-30T01:12:46+01:00'
-draft = true
 title = 'Book Review: Structure and Interpretation of Computer Programs'
 tags = ['typescript']
 +++
