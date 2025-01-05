@@ -1,8 +1,10 @@
 +++
 date = '2024-12-30T01:12:46+01:00'
-title = 'Book Review: Structure and Interpretation of Computer Programs'
+title = '[Book Review]: Structure and Interpretation of Computer Programs'
 tags = ['typescript']
 +++
+
+![sicp book cover](/sicp-cover.jpeg)
 
 I just finished reading that book, just before the end of the year. I wish I read these 600 pages earlier in my career.
 
